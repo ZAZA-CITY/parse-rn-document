@@ -32,3 +32,8 @@
 	* `` @react-navigation/native ``
 	* `` npm install @react-navigation/bottom-tabs ``
 	* `` npm i react-native-screens ``
+
+
+
+### React native 
+* [图片配置](https://reactnative.cn/docs/images)
