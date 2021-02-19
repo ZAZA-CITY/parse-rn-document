@@ -25,3 +25,11 @@ npm i @react-native-community/async-storage
 import AsyncStorage from '@react-native-community/async-storage';
 Use CocoaPods to add the native RNAsyncStorage to your project:
 $ npx pod-install
+
+
+
+### React Native 第三方库引入
+* UI ``  react-native-elements`` 接入方式参考 [参考文档](https://reactnativeelements.com/docs/)
+	* `` yarn add react-native-elements ``
+	* `` npm i --save react-native-vector-icons ``
+	* `` npm i --save react-native-safe-area-context ``
