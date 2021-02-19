@@ -18,13 +18,8 @@
 
 
 
-### 参考官方集成方式 [async-storage](https://www.npmjs.com/package/@react-native-community/async-storage/v/1.11.0-alpha.0)
->
-npm i @react-native-community/async-storage
-
-import AsyncStorage from '@react-native-community/async-storage';
-Use CocoaPods to add the native RNAsyncStorage to your project:
-$ npx pod-install
+### [async-storage](https://www.npmjs.com/package/@react-native-community/async-storage/v/1.11.0-alpha.0)参考官方集成方式 
+> 也可以做本地化存储 local storage
 
 
 
@@ -33,3 +28,7 @@ $ npx pod-install
 	* `` yarn add react-native-elements ``
 	* `` npm i --save react-native-vector-icons ``
 	* `` npm i --save react-native-safe-area-context ``
+* [导航 reactnavigation](https://reactnavigation.org/docs/getting-started)
+	* `` @react-navigation/native ``
+	* `` npm install @react-navigation/bottom-tabs ``
+	* `` npm i react-native-screens ``
