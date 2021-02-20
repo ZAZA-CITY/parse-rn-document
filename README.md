@@ -1,5 +1,9 @@
 # parse-rn-document
 
+### Xcode
+
+* 查看所有模拟器 ``xcrun simctl list devices``
+
 ### React-Native
 > 出现问题时的常用方法
 
