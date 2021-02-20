@@ -2,7 +2,7 @@
 
 ### Xcode
 
-* 查看所有模拟器 ``xcrun simctl list devices``
+* 查看所有模拟器 iOS ``xcrun simctl list devices``  android `` adb devices ``
 
 ### React-Native
 > 出现问题时的常用方法
